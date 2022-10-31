@@ -49,13 +49,13 @@ letter-spacing: 5px;
 }
 
 .red {
-  background-image: url(/B1.jpeg);
+  background-image: url(./B1.jpeg);
   object-fit: contain;
   background-color: red;
 }
 
 .green {
-  background-image: url(/B2.jpg);
+  background-image: url(./B2.jpg);
   background-position-x: center;
   object-fit: contain;
 
@@ -63,7 +63,7 @@ letter-spacing: 5px;
 }
 
 .blue {
-  background-image: url(/B3.jpg);
+  background-image: url(./B3.jpg);
   object-fit: contain;
   background-position-x: center;
 
@@ -71,7 +71,7 @@ letter-spacing: 5px;
 }
 
 .yellow {
-  background-image: url(/b4.jpg);
+  background-image: url(./b4.jpg);
   object-fit: contain;
   max-width:100%;
 max-height:100%;
